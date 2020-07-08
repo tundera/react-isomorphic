@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"i18n-ally.localesPaths": [
+			"src/shared/i18n",
+			"src/server/lib/i18n",
+			"src/shared/i18n/locales"
+		]
+	}
+}
